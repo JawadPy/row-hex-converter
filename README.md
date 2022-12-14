@@ -5,4 +5,4 @@ convert stupid hex from "51b6" to "51 b6" so you or your app can read it.
 python 3.x
 
 ## usage
-replace x variable with any other value you want.
+replace x variable with any other value you want in `main.py`.
